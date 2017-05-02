@@ -1,0 +1,14 @@
+[PropertyInfo]
+appletInfo,String,false,false, , ,true,<default>
+controlPanel,java.awt.Panel,false,false, , ,false,<default>
+panel,coverage.GraphPanel,false,false, , ,false,<default>
+parameterInfo,String[][],false,false, , ,true,<default>
+random,java.awt.Checkbox,false,false, , ,false,<default>
+scramble,java.awt.Button,false,false, , ,false,<default>
+shake,java.awt.Button,false,false, , ,false,<default>
+stress,java.awt.Checkbox,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
